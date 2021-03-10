@@ -1,0 +1,1248 @@
+{
+  "status": "success",
+  "results": {
+    "lang": "en",
+    "locations": {
+      "city": {
+        "entity_type": "city",
+        "entity_id": 4,
+        "group": "",
+        "landmark": "",
+        "near-me": "",
+        "subzone": "",
+        "zone": "",
+        "country": 1,
+        "country_name": "India",
+        "city_data": {
+          "id": 4,
+          "name": "Bengaluru",
+          "urls": {
+            "collections": {
+              "featured": "https://www.zomato.com/bangalore/collections?tab=featured"
+            },
+            "info": "https://www.zomato.com/bangalore"
+          },
+          "has_tablebooking": true,
+          "has_zomaland": false,
+          "is_zland_ticket_purchasable": false,
+          "has_order": true,
+          "show_google_banners": true,
+          "nearby_localities": [
+            {
+              "name": "Indiranagar",
+              "count": 762,
+              "url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+              "title": "Restaurants in Indiranagar",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5413",
+                "name": "Indiranagar",
+                "city": 4
+              }
+            },
+            {
+              "name": "Marathahalli",
+              "count": 1370,
+              "url": "https://www.zomato.com/bangalore/marathahalli-restaurants",
+              "title": "Restaurants in Marathahalli",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5404",
+                "name": "Marathahalli",
+                "city": 4
+              }
+            },
+            {
+              "name": "Whitefield",
+              "count": 1639,
+              "url": "https://www.zomato.com/bangalore/whitefield-restaurants",
+              "title": "Restaurants in Whitefield",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5401",
+                "name": "Whitefield",
+                "city": 4
+              }
+            },
+            {
+              "name": "Koramangala 5th Block",
+              "count": 328,
+              "url": "https://www.zomato.com/bangalore/koramangala-5th-block-restaurants",
+              "title": "Restaurants in Koramangala 5th Block",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "162246",
+                "name": "Koramangala 5th Block",
+                "city": 4
+              }
+            },
+            {
+              "name": "HSR",
+              "count": 1125,
+              "url": "https://www.zomato.com/bangalore/hsr-restaurants",
+              "title": "Restaurants in HSR",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5007",
+                "name": "HSR",
+                "city": 4
+              }
+            },
+            {
+              "name": "Jayanagar",
+              "count": 494,
+              "url": "https://www.zomato.com/bangalore/jayanagar-restaurants",
+              "title": "Restaurants in Jayanagar",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5011",
+                "name": "Jayanagar",
+                "city": 4
+              }
+            },
+            {
+              "name": "JP Nagar",
+              "count": 757,
+              "url": "https://www.zomato.com/bangalore/jp-nagar-restaurants",
+              "title": "Restaurants in JP Nagar",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5004",
+                "name": "JP Nagar",
+                "city": 4
+              }
+            },
+            {
+              "name": "Sarjapur Road",
+              "count": 756,
+              "url": "https://www.zomato.com/bangalore/sarjapur-road-restaurants",
+              "title": "Restaurants in Sarjapur Road",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5001",
+                "name": "Sarjapur Road",
+                "city": 4
+              }
+            },
+            {
+              "name": "Lavelle Road",
+              "count": 73,
+              "url": "https://www.zomato.com/bangalore/lavelle-road-restaurants",
+              "title": "Restaurants in Lavelle Road",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5103",
+                "name": "Lavelle Road",
+                "city": 4
+              }
+            },
+            {
+              "name": "Malleshwaram",
+              "count": 354,
+              "url": "https://www.zomato.com/bangalore/malleshwaram-restaurants",
+              "title": "Restaurants in Malleshwaram",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5203",
+                "name": "Malleshwaram",
+                "city": 4
+              }
+            },
+            {
+              "name": "BTM",
+              "count": 1567,
+              "url": "https://www.zomato.com/bangalore/btm-restaurants",
+              "title": "Restaurants in BTM",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5009",
+                "name": "BTM",
+                "city": 4
+              }
+            },
+            {
+              "name": "MG Road",
+              "count": 102,
+              "url": "https://www.zomato.com/bangalore/mg-road-restaurants",
+              "title": "Restaurants in MG Road",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5106",
+                "name": "MG Road",
+                "city": 4
+              }
+            },
+            {
+              "name": "Koramangala 4th Block",
+              "count": 116,
+              "url": "https://www.zomato.com/bangalore/koramangala-4th-block-restaurants",
+              "title": "Restaurants in Koramangala 4th Block",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "162245",
+                "name": "Koramangala 4th Block",
+                "city": 4
+              }
+            },
+            {
+              "name": "Kalyan Nagar",
+              "count": 475,
+              "url": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants",
+              "title": "Restaurants in Kalyan Nagar",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5314",
+                "name": "Kalyan Nagar",
+                "city": 4
+              }
+            },
+            {
+              "name": "Electronic City",
+              "count": 1318,
+              "url": "https://www.zomato.com/bangalore/electronic-city-restaurants",
+              "title": "Restaurants in Electronic City",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5010",
+                "name": "Electronic City",
+                "city": 4
+              }
+            },
+            {
+              "name": "Bannerghatta Road",
+              "count": 564,
+              "url": "https://www.zomato.com/bangalore/bannerghatta-road-restaurants",
+              "title": "Restaurants in Bannerghatta Road",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5008",
+                "name": "Bannerghatta Road",
+                "city": 4
+              }
+            },
+            {
+              "name": "Bellandur",
+              "count": 625,
+              "url": "https://www.zomato.com/bangalore/bellandur-restaurants",
+              "title": "Restaurants in Bellandur",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5015",
+                "name": "Bellandur",
+                "city": 4
+              }
+            },
+            {
+              "name": "Koramangala 7th Block",
+              "count": 221,
+              "url": "https://www.zomato.com/bangalore/koramangala-7th-block-restaurants",
+              "title": "Restaurants in Koramangala 7th Block",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "162248",
+                "name": "Koramangala 7th Block",
+                "city": 4
+              }
+            },
+            {
+              "name": "New BEL Road",
+              "count": 540,
+              "url": "https://www.zomato.com/bangalore/new-bel-road-restaurants",
+              "title": "Restaurants in New BEL Road",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5309",
+                "name": "New BEL Road",
+                "city": 4
+              }
+            },
+            {
+              "name": "Residency Road",
+              "count": 79,
+              "url": "https://www.zomato.com/bangalore/residency-road-restaurants",
+              "title": "Restaurants in Residency Road",
+              "subzone": {
+                "entity_type": "subzone",
+                "entity_id": "5108",
+                "name": "Residency Road",
+                "city": 4
+              }
+            }
+          ],
+          "active_restaurants": 26829,
+          "should_show_general_app_download_banner": true,
+          "currency_details": {
+            "currency": "\u20b9",
+            "currency_affix": "prefix"
+          },
+          "nu_voucher_data": [],
+          "is_app_only_city": true,
+          "has_gold_available": { "isBannerEnabled": true, "status": "active" },
+          "search100": false,
+          "show_delivery_covid_banner": false,
+          "show_takeaway_covid_banner": false,
+          "covid_delivery_url": "",
+          "covid_takeaway_url": ""
+        }
+      },
+      "subzone": [
+        {
+          "subzone_id": 5401,
+          "name": "Whitefield, Bangalore",
+          "entity_type": "subzone",
+          "entity_id": 5401,
+          "entity_name": "Whitefield",
+          "group": "",
+          "landmark": "",
+          "near-me": "",
+          "subzone": 5401,
+          "zone": 5400,
+          "title_nhl": "Whitefield",
+          "country": 1,
+          "country_name": "India",
+          "city_data": {
+            "id": 4,
+            "name": "Bengaluru",
+            "urls": {
+              "collections": {
+                "featured": "https://www.zomato.com/bangalore/collections?tab=featured"
+              },
+              "info": "https://www.zomato.com/bangalore"
+            },
+            "has_tablebooking": true,
+            "has_zomaland": false,
+            "is_zland_ticket_purchasable": false,
+            "has_order": true,
+            "show_google_banners": true,
+            "nearby_localities": [
+              {
+                "name": "Indiranagar",
+                "count": 762,
+                "url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+                "title": "Restaurants in Indiranagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5413",
+                  "name": "Indiranagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Marathahalli",
+                "count": 1370,
+                "url": "https://www.zomato.com/bangalore/marathahalli-restaurants",
+                "title": "Restaurants in Marathahalli",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5404",
+                  "name": "Marathahalli",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Whitefield",
+                "count": 1639,
+                "url": "https://www.zomato.com/bangalore/whitefield-restaurants",
+                "title": "Restaurants in Whitefield",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5401",
+                  "name": "Whitefield",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Koramangala 5th Block",
+                "count": 328,
+                "url": "https://www.zomato.com/bangalore/koramangala-5th-block-restaurants",
+                "title": "Restaurants in Koramangala 5th Block",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "162246",
+                  "name": "Koramangala 5th Block",
+                  "city": 4
+                }
+              },
+              {
+                "name": "HSR",
+                "count": 1125,
+                "url": "https://www.zomato.com/bangalore/hsr-restaurants",
+                "title": "Restaurants in HSR",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5007",
+                  "name": "HSR",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Jayanagar",
+                "count": 494,
+                "url": "https://www.zomato.com/bangalore/jayanagar-restaurants",
+                "title": "Restaurants in Jayanagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5011",
+                  "name": "Jayanagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "JP Nagar",
+                "count": 757,
+                "url": "https://www.zomato.com/bangalore/jp-nagar-restaurants",
+                "title": "Restaurants in JP Nagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5004",
+                  "name": "JP Nagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Sarjapur Road",
+                "count": 756,
+                "url": "https://www.zomato.com/bangalore/sarjapur-road-restaurants",
+                "title": "Restaurants in Sarjapur Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5001",
+                  "name": "Sarjapur Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Lavelle Road",
+                "count": 73,
+                "url": "https://www.zomato.com/bangalore/lavelle-road-restaurants",
+                "title": "Restaurants in Lavelle Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5103",
+                  "name": "Lavelle Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Malleshwaram",
+                "count": 354,
+                "url": "https://www.zomato.com/bangalore/malleshwaram-restaurants",
+                "title": "Restaurants in Malleshwaram",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5203",
+                  "name": "Malleshwaram",
+                  "city": 4
+                }
+              },
+              {
+                "name": "BTM",
+                "count": 1567,
+                "url": "https://www.zomato.com/bangalore/btm-restaurants",
+                "title": "Restaurants in BTM",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5009",
+                  "name": "BTM",
+                  "city": 4
+                }
+              },
+              {
+                "name": "MG Road",
+                "count": 102,
+                "url": "https://www.zomato.com/bangalore/mg-road-restaurants",
+                "title": "Restaurants in MG Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5106",
+                  "name": "MG Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Koramangala 4th Block",
+                "count": 116,
+                "url": "https://www.zomato.com/bangalore/koramangala-4th-block-restaurants",
+                "title": "Restaurants in Koramangala 4th Block",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "162245",
+                  "name": "Koramangala 4th Block",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Kalyan Nagar",
+                "count": 475,
+                "url": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants",
+                "title": "Restaurants in Kalyan Nagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5314",
+                  "name": "Kalyan Nagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Electronic City",
+                "count": 1318,
+                "url": "https://www.zomato.com/bangalore/electronic-city-restaurants",
+                "title": "Restaurants in Electronic City",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5010",
+                  "name": "Electronic City",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Bannerghatta Road",
+                "count": 564,
+                "url": "https://www.zomato.com/bangalore/bannerghatta-road-restaurants",
+                "title": "Restaurants in Bannerghatta Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5008",
+                  "name": "Bannerghatta Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Bellandur",
+                "count": 625,
+                "url": "https://www.zomato.com/bangalore/bellandur-restaurants",
+                "title": "Restaurants in Bellandur",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5015",
+                  "name": "Bellandur",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Koramangala 7th Block",
+                "count": 221,
+                "url": "https://www.zomato.com/bangalore/koramangala-7th-block-restaurants",
+                "title": "Restaurants in Koramangala 7th Block",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "162248",
+                  "name": "Koramangala 7th Block",
+                  "city": 4
+                }
+              },
+              {
+                "name": "New BEL Road",
+                "count": 540,
+                "url": "https://www.zomato.com/bangalore/new-bel-road-restaurants",
+                "title": "Restaurants in New BEL Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5309",
+                  "name": "New BEL Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Residency Road",
+                "count": 79,
+                "url": "https://www.zomato.com/bangalore/residency-road-restaurants",
+                "title": "Restaurants in Residency Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5108",
+                  "name": "Residency Road",
+                  "city": 4
+                }
+              }
+            ],
+            "active_restaurants": 26829,
+            "should_show_general_app_download_banner": true,
+            "currency_details": {
+              "currency": "\u20b9",
+              "currency_affix": "prefix"
+            },
+            "nu_voucher_data": [],
+            "is_app_only_city": true,
+            "has_gold_available": {
+              "isBannerEnabled": true,
+              "status": "active"
+            },
+            "search100": false,
+            "show_delivery_covid_banner": false,
+            "show_takeaway_covid_banner": false,
+            "covid_delivery_url": "",
+            "covid_takeaway_url": ""
+          }
+        },
+        {
+          "subzone_id": 5009,
+          "name": "BTM, Bangalore",
+          "entity_type": "subzone",
+          "entity_id": 5009,
+          "entity_name": "BTM",
+          "group": "",
+          "landmark": "",
+          "near-me": "",
+          "subzone": 5009,
+          "zone": 5000,
+          "title_nhl": "BTM",
+          "country": 1,
+          "country_name": "India",
+          "city_data": {
+            "id": 4,
+            "name": "Bengaluru",
+            "urls": {
+              "collections": {
+                "featured": "https://www.zomato.com/bangalore/collections?tab=featured"
+              },
+              "info": "https://www.zomato.com/bangalore"
+            },
+            "has_tablebooking": true,
+            "has_zomaland": false,
+            "is_zland_ticket_purchasable": false,
+            "has_order": true,
+            "show_google_banners": true,
+            "nearby_localities": [
+              {
+                "name": "Indiranagar",
+                "count": 762,
+                "url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+                "title": "Restaurants in Indiranagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5413",
+                  "name": "Indiranagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Marathahalli",
+                "count": 1370,
+                "url": "https://www.zomato.com/bangalore/marathahalli-restaurants",
+                "title": "Restaurants in Marathahalli",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5404",
+                  "name": "Marathahalli",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Whitefield",
+                "count": 1639,
+                "url": "https://www.zomato.com/bangalore/whitefield-restaurants",
+                "title": "Restaurants in Whitefield",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5401",
+                  "name": "Whitefield",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Koramangala 5th Block",
+                "count": 328,
+                "url": "https://www.zomato.com/bangalore/koramangala-5th-block-restaurants",
+                "title": "Restaurants in Koramangala 5th Block",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "162246",
+                  "name": "Koramangala 5th Block",
+                  "city": 4
+                }
+              },
+              {
+                "name": "HSR",
+                "count": 1125,
+                "url": "https://www.zomato.com/bangalore/hsr-restaurants",
+                "title": "Restaurants in HSR",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5007",
+                  "name": "HSR",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Jayanagar",
+                "count": 494,
+                "url": "https://www.zomato.com/bangalore/jayanagar-restaurants",
+                "title": "Restaurants in Jayanagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5011",
+                  "name": "Jayanagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "JP Nagar",
+                "count": 757,
+                "url": "https://www.zomato.com/bangalore/jp-nagar-restaurants",
+                "title": "Restaurants in JP Nagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5004",
+                  "name": "JP Nagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Sarjapur Road",
+                "count": 756,
+                "url": "https://www.zomato.com/bangalore/sarjapur-road-restaurants",
+                "title": "Restaurants in Sarjapur Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5001",
+                  "name": "Sarjapur Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Lavelle Road",
+                "count": 73,
+                "url": "https://www.zomato.com/bangalore/lavelle-road-restaurants",
+                "title": "Restaurants in Lavelle Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5103",
+                  "name": "Lavelle Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Malleshwaram",
+                "count": 354,
+                "url": "https://www.zomato.com/bangalore/malleshwaram-restaurants",
+                "title": "Restaurants in Malleshwaram",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5203",
+                  "name": "Malleshwaram",
+                  "city": 4
+                }
+              },
+              {
+                "name": "BTM",
+                "count": 1567,
+                "url": "https://www.zomato.com/bangalore/btm-restaurants",
+                "title": "Restaurants in BTM",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5009",
+                  "name": "BTM",
+                  "city": 4
+                }
+              },
+              {
+                "name": "MG Road",
+                "count": 102,
+                "url": "https://www.zomato.com/bangalore/mg-road-restaurants",
+                "title": "Restaurants in MG Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5106",
+                  "name": "MG Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Koramangala 4th Block",
+                "count": 116,
+                "url": "https://www.zomato.com/bangalore/koramangala-4th-block-restaurants",
+                "title": "Restaurants in Koramangala 4th Block",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "162245",
+                  "name": "Koramangala 4th Block",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Kalyan Nagar",
+                "count": 475,
+                "url": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants",
+                "title": "Restaurants in Kalyan Nagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5314",
+                  "name": "Kalyan Nagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Electronic City",
+                "count": 1318,
+                "url": "https://www.zomato.com/bangalore/electronic-city-restaurants",
+                "title": "Restaurants in Electronic City",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5010",
+                  "name": "Electronic City",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Bannerghatta Road",
+                "count": 564,
+                "url": "https://www.zomato.com/bangalore/bannerghatta-road-restaurants",
+                "title": "Restaurants in Bannerghatta Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5008",
+                  "name": "Bannerghatta Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Bellandur",
+                "count": 625,
+                "url": "https://www.zomato.com/bangalore/bellandur-restaurants",
+                "title": "Restaurants in Bellandur",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5015",
+                  "name": "Bellandur",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Koramangala 7th Block",
+                "count": 221,
+                "url": "https://www.zomato.com/bangalore/koramangala-7th-block-restaurants",
+                "title": "Restaurants in Koramangala 7th Block",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "162248",
+                  "name": "Koramangala 7th Block",
+                  "city": 4
+                }
+              },
+              {
+                "name": "New BEL Road",
+                "count": 540,
+                "url": "https://www.zomato.com/bangalore/new-bel-road-restaurants",
+                "title": "Restaurants in New BEL Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5309",
+                  "name": "New BEL Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Residency Road",
+                "count": 79,
+                "url": "https://www.zomato.com/bangalore/residency-road-restaurants",
+                "title": "Restaurants in Residency Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5108",
+                  "name": "Residency Road",
+                  "city": 4
+                }
+              }
+            ],
+            "active_restaurants": 26829,
+            "should_show_general_app_download_banner": true,
+            "currency_details": {
+              "currency": "\u20b9",
+              "currency_affix": "prefix"
+            },
+            "nu_voucher_data": [],
+            "is_app_only_city": true,
+            "has_gold_available": {
+              "isBannerEnabled": true,
+              "status": "active"
+            },
+            "search100": false,
+            "show_delivery_covid_banner": false,
+            "show_takeaway_covid_banner": false,
+            "covid_delivery_url": "",
+            "covid_takeaway_url": ""
+          }
+        },
+        {
+          "subzone_id": 5404,
+          "name": "Marathahalli, Bangalore",
+          "entity_type": "subzone",
+          "entity_id": 5404,
+          "entity_name": "Marathahalli",
+          "group": "",
+          "landmark": "",
+          "near-me": "",
+          "subzone": 5404,
+          "zone": 5400,
+          "title_nhl": "Marathahalli",
+          "country": 1,
+          "country_name": "India",
+          "city_data": {
+            "id": 4,
+            "name": "Bengaluru",
+            "urls": {
+              "collections": {
+                "featured": "https://www.zomato.com/bangalore/collections?tab=featured"
+              },
+              "info": "https://www.zomato.com/bangalore"
+            },
+            "has_tablebooking": true,
+            "has_zomaland": false,
+            "is_zland_ticket_purchasable": false,
+            "has_order": true,
+            "show_google_banners": true,
+            "nearby_localities": [
+              {
+                "name": "Indiranagar",
+                "count": 762,
+                "url": "https://www.zomato.com/bangalore/indiranagar-restaurants",
+                "title": "Restaurants in Indiranagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5413",
+                  "name": "Indiranagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Marathahalli",
+                "count": 1370,
+                "url": "https://www.zomato.com/bangalore/marathahalli-restaurants",
+                "title": "Restaurants in Marathahalli",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5404",
+                  "name": "Marathahalli",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Whitefield",
+                "count": 1639,
+                "url": "https://www.zomato.com/bangalore/whitefield-restaurants",
+                "title": "Restaurants in Whitefield",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5401",
+                  "name": "Whitefield",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Koramangala 5th Block",
+                "count": 328,
+                "url": "https://www.zomato.com/bangalore/koramangala-5th-block-restaurants",
+                "title": "Restaurants in Koramangala 5th Block",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "162246",
+                  "name": "Koramangala 5th Block",
+                  "city": 4
+                }
+              },
+              {
+                "name": "HSR",
+                "count": 1125,
+                "url": "https://www.zomato.com/bangalore/hsr-restaurants",
+                "title": "Restaurants in HSR",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5007",
+                  "name": "HSR",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Jayanagar",
+                "count": 494,
+                "url": "https://www.zomato.com/bangalore/jayanagar-restaurants",
+                "title": "Restaurants in Jayanagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5011",
+                  "name": "Jayanagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "JP Nagar",
+                "count": 757,
+                "url": "https://www.zomato.com/bangalore/jp-nagar-restaurants",
+                "title": "Restaurants in JP Nagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5004",
+                  "name": "JP Nagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Sarjapur Road",
+                "count": 756,
+                "url": "https://www.zomato.com/bangalore/sarjapur-road-restaurants",
+                "title": "Restaurants in Sarjapur Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5001",
+                  "name": "Sarjapur Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Lavelle Road",
+                "count": 73,
+                "url": "https://www.zomato.com/bangalore/lavelle-road-restaurants",
+                "title": "Restaurants in Lavelle Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5103",
+                  "name": "Lavelle Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Malleshwaram",
+                "count": 354,
+                "url": "https://www.zomato.com/bangalore/malleshwaram-restaurants",
+                "title": "Restaurants in Malleshwaram",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5203",
+                  "name": "Malleshwaram",
+                  "city": 4
+                }
+              },
+              {
+                "name": "BTM",
+                "count": 1567,
+                "url": "https://www.zomato.com/bangalore/btm-restaurants",
+                "title": "Restaurants in BTM",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5009",
+                  "name": "BTM",
+                  "city": 4
+                }
+              },
+              {
+                "name": "MG Road",
+                "count": 102,
+                "url": "https://www.zomato.com/bangalore/mg-road-restaurants",
+                "title": "Restaurants in MG Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5106",
+                  "name": "MG Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Koramangala 4th Block",
+                "count": 116,
+                "url": "https://www.zomato.com/bangalore/koramangala-4th-block-restaurants",
+                "title": "Restaurants in Koramangala 4th Block",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "162245",
+                  "name": "Koramangala 4th Block",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Kalyan Nagar",
+                "count": 475,
+                "url": "https://www.zomato.com/bangalore/kalyan-nagar-restaurants",
+                "title": "Restaurants in Kalyan Nagar",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5314",
+                  "name": "Kalyan Nagar",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Electronic City",
+                "count": 1318,
+                "url": "https://www.zomato.com/bangalore/electronic-city-restaurants",
+                "title": "Restaurants in Electronic City",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5010",
+                  "name": "Electronic City",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Bannerghatta Road",
+                "count": 564,
+                "url": "https://www.zomato.com/bangalore/bannerghatta-road-restaurants",
+                "title": "Restaurants in Bannerghatta Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5008",
+                  "name": "Bannerghatta Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Bellandur",
+                "count": 625,
+                "url": "https://www.zomato.com/bangalore/bellandur-restaurants",
+                "title": "Restaurants in Bellandur",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5015",
+                  "name": "Bellandur",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Koramangala 7th Block",
+                "count": 221,
+                "url": "https://www.zomato.com/bangalore/koramangala-7th-block-restaurants",
+                "title": "Restaurants in Koramangala 7th Block",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "162248",
+                  "name": "Koramangala 7th Block",
+                  "city": 4
+                }
+              },
+              {
+                "name": "New BEL Road",
+                "count": 540,
+                "url": "https://www.zomato.com/bangalore/new-bel-road-restaurants",
+                "title": "Restaurants in New BEL Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5309",
+                  "name": "New BEL Road",
+                  "city": 4
+                }
+              },
+              {
+                "name": "Residency Road",
+                "count": 79,
+                "url": "https://www.zomato.com/bangalore/residency-road-restaurants",
+                "title": "Restaurants in Residency Road",
+                "subzone": {
+                  "entity_type": "subzone",
+                  "entity_id": "5108",
+                  "name": "Residency Road",
+                  "city": 4
+                }
+              }
+            ],
+            "active_restaurants": 26829,
+            "should_show_general_app_download_banner": true,
+            "currency_details": {
+              "currency": "\u20b9",
+              "currency_affix": "prefix"
+            },
+            "nu_voucher_data": [],
+            "is_app_only_city": true,
+            "has_gold_available": {
+              "isBannerEnabled": true,
+              "status": "active"
+            },
+            "search100": false,
+            "show_delivery_covid_banner": false,
+            "show_takeaway_covid_banner": false,
+            "covid_delivery_url": "",
+            "covid_takeaway_url": ""
+          }
+        }
+      ]
+    },
+    "restaurants": [
+      {
+        "token_type": "category",
+        "item_id": 1,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/category_1.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "Delivery",
+        "text": "Delivery"
+      },
+      {
+        "token_type": "category",
+        "item_id": 13,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/category_13.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "Pocket-Friendly Delivery",
+        "text": "Pocket-Friendly Delivery"
+      },
+      {
+        "token_type": "category",
+        "item_id": 8,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/category_8.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "Breakfast",
+        "text": "Breakfast"
+      },
+      {
+        "token_type": "category",
+        "item_id": 9,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/category_9.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "Lunch",
+        "text": "Lunch"
+      },
+      {
+        "token_type": "category",
+        "item_id": 10,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/category_10.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "Dinner",
+        "text": "Dinner"
+      },
+      {
+        "token_type": "category",
+        "item_id": 3,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/category_3.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "Drinks & Nightlife",
+        "text": "Drinks & Nightlife"
+      },
+      {
+        "token_type": "category",
+        "item_id": 6,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/category_6.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "Caf\u00e9s",
+        "text": "Caf\u00e9s"
+      },
+      {
+        "token_type": "special",
+        "item_id": 14,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/special_14.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "Buffet Places",
+        "text": "Buffet Places"
+      },
+      {
+        "token_type": "special",
+        "item_id": 13,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/special_13.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "North Indian",
+        "text": "North Indian"
+      },
+      {
+        "token_type": "special",
+        "item_id": 31,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/special_31.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "Chinese",
+        "text": "Chinese"
+      },
+      {
+        "token_type": "special",
+        "item_id": 10,
+        "image_url": "https://b.zmtcdn.com/images/search_tokens/app_icons/special_10.png?fit=around%7C88%3A88&crop=88%3A88%3B%2A%2C%2A",
+        "description": "Desserts & Bakes",
+        "text": "Desserts & Bakes"
+      }
+    ],
+    "common": {
+      "city": "4",
+      "subzone": "5401",
+      "zone": "",
+      "landmark": "",
+      "near-me": "",
+      "group": "",
+      "entity_type": "subzone",
+      "entity_id": "5401"
+    }
+  }
+}
